@@ -1,0 +1,3 @@
+rootProject.name = 'counterswift'
+
+include ':app'
